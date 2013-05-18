@@ -50,6 +50,7 @@
     <item href="@public@vhost@g@gutenberg@html@files@1342@1342-h@1342-h-12.htm.html" id="item16" media-type="application/xhtml+xml"/>
     <!--Chunk: size=40075-->
     <item href="@public@vhost@g@gutenberg@html@files@1342@1342-h@1342-h-13.htm.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="bm.html" id="item18" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
   <spine toc="ncx">
@@ -67,5 +68,6 @@
     <itemref idref="item15" linear="yes"/>
     <itemref idref="item16" linear="yes"/>
     <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
   </spine>
 </package>

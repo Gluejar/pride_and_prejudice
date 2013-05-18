@@ -385,5 +385,10 @@
       </navLabel>
       <content src="@public@vhost@g@gutenberg@html@files@1342@1342-h@1342-h-13.htm.html#pgepubid00061"/>
     </navPoint>
-  </navMap>
+    <navPoint id="np-62" playOrder="62">
+      <navLabel>
+        <text>More Info</text>
+      </navLabel>
+      <content src="bm.html"/>
+    </navPoint>  </navMap>
 </ncx>
